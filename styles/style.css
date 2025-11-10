@@ -27,8 +27,7 @@ ul {
 .lots__look-more-link,
 .header__link,
 .footer__menu-link,
-.address__phone-link,
-.address__email-link {
+.address__link {
   text-decoration: underline 1px solid;
   text-decoration-skip-ink: none;
   text-underline-offset: 0.35ex;
